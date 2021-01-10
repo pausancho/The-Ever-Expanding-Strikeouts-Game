@@ -1,4 +1,4 @@
-# pausancho/the ever expanding strikeouts game
+# pausancho / the ever expanding strikeouts game
 *Pau Sanho*
 
 *Ironhack Data October 2020*
