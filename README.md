@@ -11,8 +11,6 @@
 - [Organization](#organization)
 - [Links](#links)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pausancho)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Project Description
 This project takes a look at the correlation between the velocity and the spin rate of all the pitches trown during the 2019 MLB season, and the relation between the spin rate and the outcomes of each pitch.  
 
