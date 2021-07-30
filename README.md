@@ -12,7 +12,7 @@
 - [Links](#links)
 
 ## Project Description
-This project takes a look at the correlation between the velocity and the spin rate of all the pitches trown during the 2019 MLB season, and the relation between the spin rate and the outcomes of each pitch.  
+This project takes a look at the correlation between the velocity and the spin rate of all the pitches thrown during the 2019 MLB season, and the relation between the spin rate and the outcomes of each pitch.  
 
 ## Questions & Hypotheses
 The questions that I wanted to answer with this project are: 
